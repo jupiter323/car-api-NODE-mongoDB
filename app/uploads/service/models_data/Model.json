@@ -1,0 +1,60 @@
+[
+    {
+        "make_name": "Acura",
+        "model_id": "1",
+        "make_id": "1",
+        "year": "2018",
+        "name": "ILX",
+        "type": "Cars"
+    },
+    {
+        "make_name": "Acura",
+        "model_id": "2",
+        "make_id": "1",
+        "year": "2018",
+        "name": "NSX",
+        "type": "Cars"
+    },
+    {
+        "make_name": "Acura",
+        "model_id": "3",
+        "make_id": "1",
+        "year": "2018",
+        "name": "RLX",
+        "type": "Cars"
+    },
+
+    {
+        "make_name": "Acura",
+        "model_id": "5",
+        "make_id": "1",
+        "year": "2018",
+        "name": "TLX",
+        "type": "Cars"
+    },
+    {
+        "make_name": "Audi",
+        "model_id": "6",
+        "make_id": "3",
+        "year": "2018",
+        "name": "A3",
+        "type": "Cars"
+    },
+    {
+        "make_name": "Acura",
+        "model_id": "7",
+        "make_id": "1",
+        "year": "2018",
+        "name": "MDX",
+        "type": "SUVs"
+    },
+ 
+    {
+        "make_name": "Acura",
+        "model_id": "9",
+        "make_id": "1",
+        "year": "2018",
+        "name": "RDX",
+        "type": "SUVs"
+    }
+]
